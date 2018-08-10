@@ -1,6 +1,6 @@
 # Chat App
 
-Chat App enables users to chat online.
+Chat App enables users to chat online. The app uses React, Redux, Redux-Saga, and web sockets.
 
 ---
 
