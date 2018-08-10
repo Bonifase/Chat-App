@@ -1,22 +1,17 @@
-Chat App enables users to chat online
+# Chat App
 
-## Table of Contents
+Chat App enables users to chat online.
 
-- [Using the `public` Folder](#using-the-public-folder)
-  - [Changing the HTML](#changing-the-html)
-  - [Adding Assets Outside of the Module System](#adding-assets-outside-of-the-module-system)
-  - [When to Use the `public` Folder](#when-to-use-the-public-folder)
+---
 
-## Updating to New Releases
+## Getting started
 
-Create React App is divided into two packages:
+1.  Clone this repo using `git clone https://github.com/Bonifase/Chat-App.git`.
+2.  Run `npm install` to install the dependencies.
 
-- `create-react-app` is a global command-line utility that you use to create new projects.
-- `react-scripts` is a development dependency in the generated projects (including this one).
+3.  Run `npm start` to start the local web server.
 
-## Sending Feedback
-
-We are always open to [your feedback](https://github.com/facebookincubator/create-react-app/issues).
+4.  Go to `http://localhost:3000` and you should see the app running!
 
 ## Folder Structure
 
